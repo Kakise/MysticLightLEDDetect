@@ -1,0 +1,11 @@
+﻿  MysticLightLEDDetect.cpp
+C:\Users\Sami\source\repos\MysticLightLEDDetect\MysticLightLEDDetect\MysticLightLEDDetect.cpp(121,20): warning C4477: 'printf' : la chaîne de format '%S' nécessite un argument de type 'wchar_t *', mais l'argument variadique 2 est de type 'ATL::_ATL_AutomationType<BSTR>::_typewrapper'
+C:\Users\Sami\source\repos\MysticLightLEDDetect\MysticLightLEDDetect\MysticLightLEDDetect.cpp(121,20): warning C4477: 'printf' : la chaîne de format '%S' nécessite un argument de type 'wchar_t *', mais l'argument variadique 3 est de type 'ATL::_ATL_AutomationType<BSTR>::_typewrapper'
+C:\Users\Sami\source\repos\MysticLightLEDDetect\MysticLightLEDDetect\MysticLightLEDDetect.cpp(130,16): warning C4477: 'printf' : la chaîne de format '%S' nécessite un argument de type 'wchar_t *', mais l'argument variadique 1 est de type 'ATL::_ATL_AutomationType<BSTR>::_typewrapper'
+C:\Users\Sami\source\repos\MysticLightLEDDetect\MysticLightLEDDetect\MysticLightLEDDetect.cpp(137,24): warning C4477: 'printf' : la chaîne de format '%S' nécessite un argument de type 'wchar_t *', mais l'argument variadique 1 est de type 'ATL::_ATL_AutomationType<BSTR>::_typewrapper'
+  Génération de code en cours
+  2 of 140 functions ( 1.4%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Fin de la génération du code
+  MysticLightLEDDetect.vcxproj -> C:\Users\Sami\source\repos\MysticLightLEDDetect\x64\Release\MysticLightLEDDetect.exe
